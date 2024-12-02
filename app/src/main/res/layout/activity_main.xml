@@ -52,7 +52,7 @@
             />
 
         <Button
-            android:id="@+id/new_quote_btn"
+            android:id="@+id/motivateMeButton"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="12dp"

@@ -3,7 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="orange">#ed5f1e</color>
 
     <color name="main_title_color">#FFFFFFFF</color>
     <color name="add_note_btn_color">#3074c7</color>
@@ -15,4 +14,11 @@
 
     <color name="text_field_color">#d5dbe3</color>
     <color name="text_field_border_color">#6d809c</color>
+
+    <color name="quote_color">#FFFFFFFF</color>
+    <color name="author_name_color">#61656b</color>
+    <color name="generate_quote_btn_color">#3074c7</color>
+
+
+
 </resources>

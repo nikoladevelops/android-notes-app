@@ -27,6 +27,12 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AddNoteActivity::class.java)
             startActivity(intent)
         }
+
+        binding.motivateMeButton.setOnClickListener {
+            val intent = Intent(this, RandomQuoteActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 
     override fun onResume() {

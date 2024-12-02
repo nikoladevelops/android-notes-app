@@ -4,6 +4,8 @@
     <string name="motivate_me_btn_text">Motivate Me</string>
     <string name="save_changes_btn_text">Save Changes</string>
     <string name="save_btn_text">Save</string>
+    <string name="generate_quote_btn_text">Generate Quote</string>
+
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
